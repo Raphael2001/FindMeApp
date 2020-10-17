@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>438717715397-0cbg9vtmcmgrq0vm27jlknfnj51qoip7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.438717715397-0cbg9vtmcmgrq0vm27jlknfnj51qoip7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyChAbNPCNdefrAEf2ccPzsV8-2ry4tmteI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>438717715397</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.raphael.findMe</string>
+	<key>PROJECT_ID</key>
+	<string>findme-9a474</string>
+	<key>STORAGE_BUCKET</key>
+	<string>findme-9a474.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:438717715397:ios:c16d52ec9c591c6f65f1ac</string>
+	<key>DATABASE_URL</key>
+	<string>https://findme-9a474.firebaseio.com</string>
+</dict>
+</plist>
